@@ -86,6 +86,8 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | top | Displays active processes. Press q to quit |
 | nano [file] | Opens the file using the nano editor |
 | vim [file] | Opens the file using the vim editor |
+| file [file] | Information about file |
+| stat [file or folder] | Information about permissions and dates |
 | clear |  Clear screen |
 | reset |  Resets the terminal display |
 
