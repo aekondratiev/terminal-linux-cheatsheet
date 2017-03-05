@@ -3,9 +3,9 @@ From https://github.com/0nn0/terminal-mac-cheatsheet but for Linux.
 _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 # Table of Contents
-1. [SHORTCUTS](##SHORTCUTS)
-1.1. [Terminal](###Terminal)
-1.2. [VIM](###VIM)
+1. [SHORTCUTS](#SHORTCUTS)
+2. [Terminal](#Terminal)
+3. [VIM](#VIM)
 
 ## SHORTCUTS
 
