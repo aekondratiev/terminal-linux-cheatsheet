@@ -80,6 +80,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | ls -a | Listing incl. hidden files |
 | ls -lh| Long listing with Human readable file sizes |
 | ls -R | Entire content of folder recursively |
+| ls -ltr | Sort by creation/editing|
 | sudo [command] | Run command with the security privileges of the superuser (Super User DO) |
 | open [file] | Opens a file ( as if you double clicked it ) |
 | top | Displays active processes. Press q to quit |
