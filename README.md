@@ -6,6 +6,14 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 1. [SHORTCUTS](#SHORTCUTS)
   1. [Terminal](#Terminal)
   2. [VIM](#VIM)
+2. [CORE COMMANDS](#CORECOMMANDS)
+3. [CHAINING COMMANDS](#CHAININGCOMMANDS)
+4. [PIPING COMMANDS](#PIPINGCOMMANDS)
+5. [COMMAND HISTORY](#COMMANDHISTORY)
+6. [FILE MANAGEMENT](#FILEMANAGEMENT)
+7. [DIRECTORY MANAGEMENT](#DIRECTORYMANAGEMENT)
+8. [SEARCH](#SEARCH)
+9. [HELP](#HELP)
 
 ## SHORTCUTS <a name="SHORTCUTS"></a>
 
@@ -59,7 +67,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | :%s/old/new/g | replace all old with new throughout file |
 | :%s/old/new/gc | replace all old with new throughout file with confirmations |
 
-## CORE COMMANDS
+## CORE COMMANDS <a name="CORECOMMANDS"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -80,7 +88,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | clear |  Clear screen |
 | reset |  Resets the terminal display |
 
-## CHAINING COMMANDS
+## CHAINING COMMANDS <a name="CHAININGCOMMANDS"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -89,14 +97,14 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | [command-a] || [command-b] | Run command B if A failed |
 | [command-a] & | Run command A in background |
 
-## PIPING COMMANDS
+## PIPING COMMANDS <a name="PIPINGCOMMANDS"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
 | [command-a] \| [command-b] | Run command A and then pass the result to command B e.g ps auxwww \| grep google
 |
 
-## COMMAND HISTORY
+## COMMAND HISTORY <a name="COMMANDHISTORY"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -105,7 +113,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | ![value] |  Execute the last command typed that starts with ‘value’ |
 | !! |  Execute the last command typed |
 
-## FILE MANAGEMENT
+## FILE MANAGEMENT <a name="FILEMANAGEMENT"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -127,7 +135,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | pbpaste | Paste clipboard contents |
 | pbpaste > [file] | Past clipboard contents into file, `pbpaste > paste-test.txt` |
 
-## DIRECTORY MANAGEMENT
+## DIRECTORY MANAGEMENT <a name="DIRECTORYMANAGEMENT"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -141,7 +149,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | [command] >> [file] | Append output to existing file |
 | [command] < [file] |  Tell command to read content from a file |
 
-## SEARCH
+## SEARCH <a name="SEARCH"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -150,7 +158,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | grep -r [search_pattern] [file] | Recursively search for all lines that do not contain the pattern |
 | grep -v [search_pattern] [file] | Search for all lines that do NOT contain the pattern |
 
-## HELP
+## HELP <a name="HELP"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
