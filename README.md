@@ -87,7 +87,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | nano [file] | Opens the file using the nano editor |
 | vim [file] | Opens the file using the vim editor |
 | file [file] | Information about file |
-| stat [file or folder] | Information about permissions and dates |
+| stat [file or dir] | Information about permissions and dates |
 | clear |  Clear screen |
 | reset |  Resets the terminal display |
 
@@ -134,9 +134,6 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | cp [file] [newfile] | Copy file to file |
 | cp [file] [dir] | Copy file to directory |
 | mv [file] [new filename] |  Move/Rename, e.g. `mv file1.ad /tmp` |
-| pbcopy < [file] | Copies file contents to clipboard |
-| pbpaste | Paste clipboard contents |
-| pbpaste > [file] | Past clipboard contents into file, `pbpaste > paste-test.txt` |
 
 ## DIRECTORY MANAGEMENT <a name="DIRECTORYMANAGEMENT"></a>
 
