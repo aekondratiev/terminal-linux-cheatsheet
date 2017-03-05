@@ -4,8 +4,8 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 # Table of Contents
 1. [SHORTCUTS](#SHORTCUTS)
-2. [Terminal](#Terminal)
-3. [VIM](#VIM)
+  1. [Terminal](#Terminal)
+  2. [VIM](#VIM)
 
 ## SHORTCUTS <a name="SHORTCUTS"></a>
 
