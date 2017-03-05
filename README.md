@@ -7,9 +7,9 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 2. [Terminal](#Terminal)
 3. [VIM](#VIM)
 
-## SHORTCUTS
+## SHORTCUTS <a name="SHORTCUTS"></a>
 
-### Terminal
+### Terminal <a name="Terminal"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -30,7 +30,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | Ctrl + B   | Move cursor one character backward |
 | Tab  | Auto-complete files and folder names |
 
-### VIM
+### VIM <a name="VIM"></a>
 
 | Key/Command | Description |
 | ----------- | ----------- |
